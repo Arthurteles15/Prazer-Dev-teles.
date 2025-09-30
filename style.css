@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.pagina1{
+    background-image: url(leone-venter-VieM9BdZKFo-unsplash.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0px;
+    height: 1300px;
+    width: 1290px;
+    padding: 30px;
+    margin-bottom: -450px;
+
+}
+.imagempng{
+  
+
+    width: 455px;
+    margin-top: 60px;
+    margin-left: 420px;
+}
+.titulo{
+    margin: 145px;
+    margin-bottom: -140px;
+    font-size: 40px;
+    margin-left: 340px;
+    
+}
+a{
+    
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 30px;
+    padding: 40px;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
