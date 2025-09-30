@@ -32,7 +32,7 @@
 
   color: rgb(12, 12, 12);
 }
-a {
+.navegacao {
   text-decoration: none;
   margin-left: 30px;
   font-size: 30px;
@@ -100,7 +100,7 @@ a:hover {
   color: white;
   font-family: "SUSE Mono", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 100;
+  font-weight: 300;
   font-style: normal;
 }
 #site2 {
@@ -109,3 +109,19 @@ a:hover {
   margin-top: 10px;
   margin-left: 150px;
 }
+#contato{
+    background-color: rgb(212, 212, 212);
+    padding: 200px;
+    display: ;
+
+}
+.logo_contato{
+    display: flex;
+    width: 200px;
+    border-radius: 200px;
+    
+    
+    
+}
+
+    
