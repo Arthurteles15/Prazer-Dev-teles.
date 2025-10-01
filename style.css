@@ -17,7 +17,7 @@
 }
 .imagempng {
   width: 455px;
-  margin-top: 92px;
+  margin-top: 106px;
   margin-left: 420px;
 }
 .titulo {
@@ -35,17 +35,22 @@
 .navegacao {
   text-decoration: none;
   margin-left: 30px;
-  font-size: 30px;
+  font-size: 20px;
   padding: 40px;
   color: black;
   font-family: "Poppins", sans-serif;
   font-weight: 200;
   font-style: normal;
+  
+  border-radius: 200px;
+  margin-top: 20px;
+
 }
-a:hover {
+.navegacao:hover {
   transition: 0.4s;
-  color: rgb(121, 121, 121);
+  color: rgb(34, 34, 34);
   text-shadow: 1px 1px 3px;
+  background-color: rgb(126, 126, 126);
 }
 #pagina2 {
   background-color: rgb(70, 70, 70);
@@ -65,6 +70,7 @@ a:hover {
   margin-left: 50px;
   font-size: 50px;
   margin-top: 170px;
+  margin-bottom: -50px;
   color: white;
   font-family: "SUSE Mono", sans-serif;
   font-optical-sizing: auto;
@@ -72,7 +78,8 @@ a:hover {
   font-style: normal;
 }
 #parasobre {
-  margin-top: 70px;
+  margin-top: 100px;
+  margin-bottom: -10px;
   font-size: 1.7em;
   width: 600px;
   margin-left: 50px;
@@ -87,12 +94,7 @@ a:hover {
   background-color: rgb(70, 70, 70);
   height: 1300px;
 }
-#site1 {
-  width: 1100px;
-  height: 500px;
-  margin-left: 150px;
-  margin-bottom: 40px;
-}
+
 #subtitulo2 {
   font-size: 3em;
   text-align: center;
@@ -103,16 +105,11 @@ a:hover {
   font-weight: 300;
   font-style: normal;
 }
-#site2 {
-  width: 1100px;
-  height: 500px;
-  margin-top: 10px;
-  margin-left: 150px;
-}
+
 #contato{
     background-color: rgb(212, 212, 212);
     padding: 200px;
-    display: ;
+    
 
 }
 .logo_contato{
@@ -123,5 +120,47 @@ a:hover {
     
     
 }
+.logo_contato1:hover{
+  width: 210px;
+  border-radius: 40px;
+  box-shadow: 10px 10px 10px  rgb(128, 127, 127) ;
+  transition: 0.3s;
+  
+}
 
+#subtitulo3{
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 60px;
+  color: rgb(7, 7, 7);
+  font-family: "SUSE Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+
+}
+.imgstar{
+  margin-left: 100px;
+  width: 300px;
+  border-radius: 155px;
+}
+.imgstar:hover{
+  width: 320px;
+  transition: 0.4s;
+  box-shadow: 10px 10px 10px rgb(44, 44, 44);
+  border-radius: 155px;
+}
+.Sitestarbucks{
+  display: flex;
+}
+.slogan_star{
+  width: 600px;
+  margin: 80px;
+  font-family:   "SUSE Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  color: aliceblue;
+  
+}
     
