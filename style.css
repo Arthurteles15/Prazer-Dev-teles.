@@ -14,6 +14,7 @@
   height: 1300px;
   width: 1290px;
   padding: 30px;
+  
 }
 .imagempng {
   width: 455px;
@@ -41,16 +42,18 @@
   font-family: "Poppins", sans-serif;
   font-weight: 200;
   font-style: normal;
-  
+  background-size: 20px;
   border-radius: 200px;
   margin-top: 20px;
+  font-weight: 300;
 
 }
 .navegacao:hover {
-  transition: 0.4s;
-  color: rgb(34, 34, 34);
-  text-shadow: 1px 1px 3px;
-  background-color: rgb(126, 126, 126);
+  transition: 0.7s;
+  color: rgb(138, 138, 138);
+  font-weight: 500;
+  
+  
 }
 #pagina2 {
   background-color: rgb(70, 70, 70);
@@ -92,7 +95,8 @@
 
 #pagina3 {
   background-color: rgb(70, 70, 70);
-  height: 1300px;
+  height: 600px;
+
 }
 
 #subtitulo2 {
@@ -104,6 +108,7 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
+  
 }
 
 #contato{
@@ -154,6 +159,7 @@
 }
 .Sitestarbucks{
   display: flex;
+  margin-top: 30px;
 }
 .slogan_star{
   width: 600px;
@@ -165,4 +171,4 @@
   color: aliceblue;
   
 }
-    
+
