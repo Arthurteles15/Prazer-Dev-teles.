@@ -60,6 +60,7 @@
   margin-top: -463px;
   height: 700px;
   display: flex;
+  width: 1351px;
 }
 #fotominhacara {
   width: 400px;
@@ -96,6 +97,7 @@
 #pagina3 {
   background-color: rgb(70, 70, 70);
   height: 600px;
+  width: 1351px;
 
 }
 
@@ -114,6 +116,7 @@
 #contato{
     background-color: rgb(212, 212, 212);
     padding: 200px;
+    width: 951px;
     
 
 }
